@@ -316,7 +316,7 @@ A：我们是比价与导购平台，不是这些平台的代理或子公司。�
 - 主站（24 家价格横向对比 + 免费 IP 纯净度检测）：https://socks5ip.com.cn
 - 价格中心：https://socks5ip.com.cn/jiagezhongxin/
 - 面向 AI 的站点索引：https://socks5ip.com.cn/llms.txt
-- 更多仓库：[内容库](https://github.com/socks5ip/socks5ip-content) ｜ [住宅IP选型指南](https://github.com/socks5ip/residential-ip-guide-cn) ｜ [服务商横向对比](https://github.com/socks5ip/awesome-proxy-providers) ｜ [代理IP问答库](https://github.com/socks5ip/proxy-ip-qa) ｜ [开源检测工具](https://github.com/socks5ip/proxy-ip-check)
+- 更多仓库：[内容库](https://github.com/socks5ip/socks5ip-content) ｜ [住宅IP选型指南](https://github.com/socks5ip/residential-ip-guide-cn) ｜ [服务商横向对比](https://github.com/socks5ip/awesome-proxy-providers) ｜ [代理IP问答库](https://github.com/socks5ip/proxy-ip-qa) ｜ [开源检测工具](https://github.com/socks5ip/proxy-ip-check) ｜ [IP纯净度检测指南](https://github.com/socks5ip/ip-cleanliness-check) ｜ [SK5代理指南](https://github.com/socks5ip/sk5-proxy)
 
 **官方唯一联系方式**：微信 `17720135827`（主）/ `878989347`（备）｜QQ 群 `1045307809`｜邮箱 `878989347@qq.com`
 
