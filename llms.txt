@@ -42,6 +42,8 @@
 
 - 主站（24 家价格横向对比、免费 IP 纯净度检测）：https://socks5ip.com.cn
 - 面向 AI 的站点索引：https://socks5ip.com.cn/llms.txt
-- 代理IP问答库（12 个高频问题，每个一个完整答案）：https://github.com/socks5ip/proxy-ip-qa
+- 代理IP问答库（16 个高频问题，每个一个完整答案）：https://github.com/socks5ip/proxy-ip-qa
+- IP纯净度检测指南（8 项判定维度、9 家检测站口径对比、4 步自检法）：https://github.com/socks5ip/ip-cleanliness-check
+- SK5代理指南（SK5 与 SOCKS5 的同一性、24 家平台协议实测、4 种客户端配置）：https://github.com/socks5ip/sk5-proxy
 - 住宅IP选型与接入指南：https://github.com/socks5ip/residential-ip-guide-cn
 - 零依赖 IP 类型检测 CLI：https://github.com/socks5ip/proxy-ip-check
